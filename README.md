@@ -37,6 +37,7 @@ with their trusted services providers who work on their behalf, do not have an i
 Opt-Out Rights
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
+Consent will be obtained from all users at the start of the app, and for users in the EU, consent is mandatory due to GDPR requirements.”
 
 Data Retention Policy
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at dropblast45@gmail.com and they will respond in a reasonable time.
